@@ -5,4 +5,4 @@ Modules included:
 1. MPU6050
   - I2C
   - Complementary filter
-  - 
+  - Kalman Filter on the abcxyz
